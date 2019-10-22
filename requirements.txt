@@ -63,7 +63,7 @@ parso==0.3.4
 pathlib2==2.3.3
 pbr==5.1.2
 pickleshare==0.7.5
-Pillow==5.4.1
+Pillow==6.2.0
 pluggy==0.8.1
 prompt-toolkit==1.0.15
 psutil==5.5.1
